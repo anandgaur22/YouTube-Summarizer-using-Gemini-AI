@@ -1,11 +1,3 @@
-
-
-
-
-
-
-git add README.md
-
 # YouTube Summarizer 🚀
 
 This is a Flask-based web app that summarizes YouTube videos using Gemini AI.
